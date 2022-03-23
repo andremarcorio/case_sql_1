@@ -1,5 +1,5 @@
-# case_sql_1
-### Enunciado
+# Case 01 - Queries com SQL
+
 Imagine uma base de dados de uma universidade que contenha as seguintes tabelas e seus respectivos campos organizados da seguinte forma:
 
 tabela_alunos → colunas = (ra, nome, endereco, cidade);
